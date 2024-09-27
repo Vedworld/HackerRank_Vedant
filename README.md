@@ -7,9 +7,6 @@
   <li>Introduction</li>
   <li>Languages Used</li>
   <li>Categories</li>
-  <li>How to Use</li>
-  <li>Contributing</li>
-  <li>License</li>
 </ul>
 
 <h3>Introduction</h3>
