@@ -22,9 +22,8 @@
 <ul>
   <li>Java</li>
   <li>C++</li>
-  <li>Python</li>
   <li>JavaScript</li>
-  <li>C</li>
+  <li>C#</li>
 </ul>
 
 <h3>Categories</h3>
